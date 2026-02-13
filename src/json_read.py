@@ -8,8 +8,6 @@ with open(file, "r") as f:
 # for order in data["orders"]:
 #     print(order)
 
-
-
 # convert json data(clumsy) to flattened dictionary
 rows = []
 
