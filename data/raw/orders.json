@@ -1,0 +1,48 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "item": [
+        {
+          "name": "apple",
+          "price": 100,
+          "unit": "kg"
+        }
+      ],
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "item": [
+        {
+          "name": "banana",
+          "price": 40,
+          "unit": "dozen"
+        }
+      ],
+      "quantity": 5
+    },
+    {
+      "id": 3,
+      "item": [
+        {
+          "name": "orange",
+          "price": 50,
+          "unit": "kg"
+        }
+      ],
+      "quantity": 8
+    },
+    {
+      "id": 4,
+      "item": [
+        {
+          "name": "grape",
+          "price": 80,
+          "unit": "kg"
+        }
+      ],
+      "quantity": 12
+    }
+  ]
+}
