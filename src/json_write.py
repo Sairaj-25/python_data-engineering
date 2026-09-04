@@ -9,7 +9,9 @@ data = {
     ]
 }
 
-file = "data/raw/orders.json"
+file = "/home/sairaj/Desktop/DISK/Python/Python for data engineer/python-de-project/data/raw/orders.json"
 
 with open(file, "w") as f:
-    json.dump(data, f, indent=2) # json.dump convert : Dictionary to JSON string and write it to file. indent=2 is used to make the JSON file more readable by adding indentation.
+    json.dump(data, f, indent=2) 
+
+# json.dump convert : Dictionary to JSON string and write it to file. indent=2 is used to make the JSON file more readable by adding indentation.
