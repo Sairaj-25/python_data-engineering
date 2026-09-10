@@ -1,0 +1,5 @@
+order_id,customer,email,amount,country
+1001,Alice,alice@example.com,120.5,INDIA
+1002,Bob,bob@example.com,75.0,IN
+1003,Charlie,charlie@example.com,200.0,US
+1005,Alice,alice@example.com,120.5,INDIA
